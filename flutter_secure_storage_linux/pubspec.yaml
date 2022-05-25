@@ -17,4 +17,4 @@ flutter:
     implements: flutter_secure_storage
     platforms:
       linux:
-        pluginClass: FlutterSecureStorageLinuxPlugin
+        pluginClass: none
